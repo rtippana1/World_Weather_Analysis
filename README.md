@@ -16,4 +16,5 @@ I have exported the data cleaned it and uses the weather data to choose the best
 I have also mapped these cities using the jupyter gmaps and google places API.
 As an improvement have added the weather description to the weather data. Then, used the input statements to filter the data for the weather preferences, later used to identify potential travel destinations and nearby hotels. From the list of potential travel destinations, the user can choose four cities to create a travel itinerary. Finally, using the Google Maps Directions API, created a travel route between the four cities as well as a marker layer map.
 
+![Vacation Itinerary](https://github.com/rtippana1/World_Weather_Analysis/blob/main/Vacation_Search/WeatherPy_vacation_map.png)
 ![Vacation Itinerary](https://github.com/rtippana1/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map.png)
