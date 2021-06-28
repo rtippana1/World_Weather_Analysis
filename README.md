@@ -6,6 +6,7 @@ We then analyzed the data using pandas and plot the data using the matplotlib li
 
 PlanMyTrip is a travel technology company that specializes in internet related services in the hotel and lodging industry.
 Collect and present data to customers via the search page which they will then filter based on their preferred travel criteria in order to find their ideal hotel anywhere in the world. 
+![alt text] (https://github.com/rtippana1/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map.png)
 To Perform this task, we have used a Jupyter notebook and the citypy Module to get the cities for more than 500 random latitudes and longitudes.
 Then we performed requests on the open weather map API and retrieve the JSON weather data from these cities. The weather data is added to a panda’s library and used a matplotlib to create a series of scatter plots to show the relationship btw latitude and variety of weather parameters for over 500 cities around the world.
 As part of analysis, we performed statistical analysis on the data using the linear regression on the weather parameters in the northern and southern hemispheres.
