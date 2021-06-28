@@ -1,6 +1,6 @@
 # World_Weather_Analysis
 ## Overview of Project
-In this project we have used Jupyter notebook,Pandas Library ,Python citypy module ,Python requests ,API and Jason Traversals to collect weather data from over 500 cities around the world.
+In this project we have used Jupyter notebook,Pandas Library ,Python citypy module ,Python requests ,API and JSON Traversals to collect weather data from over 500 cities around the world.
 
 We then analyzed the data using pandas and plot the data using the matplotlib library and google maps API. Finally, we performed a statical analysis with the scipy library. The end result is a series of plots that visually and statically shows the relationship between the latitude and a variety of weather parameters.
 
